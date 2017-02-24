@@ -1,0 +1,89 @@
+#launchy {
+}
+
+#opsButton {
+	border: none;
+	background: url(option.png);
+	qproperty-geometry: rect(358 149  69 39);
+}
+
+#opsButton:pressed {
+	border: none;
+	background-image: url(option_pressed.png);
+}
+
+#workingAnimation {
+	qproperty-geometry: rect(707 40 16 16);
+}
+
+#input {
+	font: 28px "Trebuchet MS";
+	border-width: 0px;
+	background-color: rgba(0,244,120,0%);
+	border-style: solid;
+	color: #3f3f3f;
+	qproperty-alignment: AlignLeft;
+	qproperty-geometry: rect(40 154 290 28);
+}
+
+#output {
+	font: 36px "Trebuchet MS";
+	border-width: 0px;
+	background-color: rgba(0,244,120,0%);
+	border-style: solid;
+	color: #FFFFFF;
+	qproperty-alignment: AlignLeft;
+	qproperty-geometry: rect(125 60 300 52);
+}
+
+#outputIcon {
+	qproperty-geometry: rect(50 60 52 52);
+}
+
+#alternatives {
+	font: 14px "Trebuchet MS";
+	font-weight: bold;
+	background-color:#010101;
+	alternate-background-color: rgba(22,14,1,100%);		
+	color: #ce8a0b;	
+	
+	border-style: solid;
+	border-width: 0px;	
+	
+	qproperty-geometry: rect(31 181 307 133);
+	padding: 10px;
+	min-height: 35px;
+}
+
+#alternativesPath {
+	font: 10px "Trebuchet MS";
+	color: #ffffff;
+}
+
+
+QScrollBar#altScroll:vertical {
+	image: url(scrollBack.png);
+	width: 8px;	
+}
+
+QScrollBar#altScroll::handle:vertical {
+	background-color: #eda723;
+}
+
+QScrollBar#altScroll::add-page:vertical {
+	background: url(scrollBack.png);
+}
+
+QScrollBar#altScroll::sub-page:vertical {
+	background: url(scrollBack.png);
+}
+
+QScrollBar#altScroll::sub-line:vertical {
+	width: 1px;
+	height: 1px;	
+}
+
+QScrollBar#altScroll::add-line:vertical {
+	width: 1px;
+	height: 1px;
+}
