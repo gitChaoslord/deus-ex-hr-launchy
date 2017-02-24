@@ -8,3 +8,7 @@ Replicating a launchy terminal using the same style as the login window on compu
 I don't work for Edios Interactive, but most of the credit should go to team there for building an amazing game. I'm just a fan and a web designer trying to customize my experience of the Deus Ex universe outside of the game.
 
 I hope you enjoy using this skin as much as I did making it!
+
+## Instructions
+
+To install just unzip the folder and place it in your launchy skins folder. (Program Files\Launchy\skins)
