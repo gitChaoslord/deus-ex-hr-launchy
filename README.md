@@ -1,14 +1,12 @@
-![Teaser of the Deus Ex Skin](https://mir-s3-cdn-cf.behance.net/projects/202/4422247.54620d92df191.jpg)
+<h3 align="center">Deus Ex: Human Revolution Skin for Launchy (2.0)</h3>
+<p align="center">Original _by Jason Maggiacomo (Nextrix)_</p>
 
-# Deus Ex: Human Revolution (1.0) for Launchy (2.0)
-_by Jason Maggiacomo (Nextrix)_
+<p align="center"><strong>Edited Image and Qss to make the frame larger</strong></p>
 
-Replicating a launchy terminal using the same style as the login window on computers in the video game Deus Ex: Human Revolution. Login button now works at a config button.
+<div align="center"> 
+  <img src="/demo.png?raw=true" width="300px">
+</div>
 
-I don't work for Edios Interactive, but most of the credit should go to team there for building an amazing game. I'm just a fan and a web designer trying to customize my experience of the Deus Ex universe outside of the game.
+<h3 align="center">Instructions</h3>
 
-I hope you enjoy using this skin as much as I did making it!
-
-## Instructions
-
-To install just unzip the folder and place it in your launchy skins folder. (Program Files\Launchy\skins)
+<p align="center">To install just unzip the folder and place it in your launchy skins folder. (..\Launchy\skins)</p>
