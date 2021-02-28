@@ -4,7 +4,7 @@
 <p align="center"><strong>Edited Image and Qss to make the frame larger</strong></p>
 
 <div align="center"> 
-  <img src="/demo.png?raw=true" width="300px">
+  <img src="/demo.png?raw=true" width="400px">
 </div>
 
 <h3 align="center">Instructions</h3>
